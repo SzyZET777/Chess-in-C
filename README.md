@@ -5,7 +5,8 @@ Chess app that runs in terminal, written in C programming language
 
 Instructions:
 ```
-> Download this repository, unzip it
+> Download all code from this repository as a ZIP file
+> Unzip it into a folder
 > Open the unzipped folder in terminal
 > Type "bash make.sh" to compile and run the app
 ```
