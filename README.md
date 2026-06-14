@@ -10,3 +10,8 @@ Instructions:
 > Open the unzipped folder in terminal
 > Type "bash make.sh" to compile and run the app
 ```
+
+Controls:
+```
+> Make moves by typing starting and ending positions like "E2 E4"
+```
